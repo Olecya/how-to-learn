@@ -28,6 +28,10 @@
 .header__square-pic {
   height: 568px;
   width: 568px;
+  position: absolute;
+  right: 0px;
+  top: 64px;
+  z-index: 1;
 }
 .header-link {
   margin: auto;
@@ -56,12 +60,7 @@
   right: 0px;
   z-index: 2;
 }
-.header__square-pic {
-  position: absolute;
-  right: 0px;
-  top: 64px;
-  z-index: 1;
-}
+
 .header__link {
   text-decoration:none;
 }
@@ -94,7 +93,7 @@
 }
 
 .square-pic {
-  height: 568px; 
+  height: 568px;
   width: 568px;
   background-color: blue;
 }
@@ -108,7 +107,7 @@
   justify-content: space-between;
   display: flex;
   align-items:baseline;
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
   margin: auto;
 }
@@ -278,7 +277,7 @@
   padding-top: 90px;
   padding-bottom: 90px;
   position: relative;
-  overflow: hidden; 
+  overflow: hidden;
   z-index: 2;
 }
 
