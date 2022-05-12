@@ -75,7 +75,7 @@
   text-decoration:none;
   color:#2f80ed;
   margin: auto;
-  transition: opacity 0.5s linear;
+  transition: opacity 0.2s linear;
 }
 
 .header__link:hover {
@@ -198,7 +198,7 @@
   font-size: 36px;
   font-weight: normal;
   color: #2f80ed;
-  transition: opacity 0.5s linear;
+  transition: opacity 0.2s linear;
 }
 
 .feynman__link:hover {
@@ -286,7 +286,7 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-  transition: opacity 0.5s linear;
+  transition: opacity 0.2s linear;
 }
 
 .footer__column-link:hover {
@@ -314,7 +314,7 @@
   flex-basis: 711px;
 }
 
-.footer__author{
+.footer__author {
   padding: 18px 0;
   line-height: 25px;
   font-size: 18px;
@@ -332,7 +332,7 @@
   position: absolute;
 }
 
-.rotation{
+.rotation {
   animation: rotation 20s infinite linear;
 }
 
@@ -491,7 +491,7 @@ font-size: 30px;
 font-weight: normal;
 text-decoration: none;
 color: #2f80ed;
-transition: opacity 0.5s linear;
+transition: opacity 0.2s linear;
 }
 
 .khan__buy-link:hover {
@@ -517,7 +517,7 @@ height: 38px;
 
 .resources__link {
 margin: auto;
-transition: opacity 0.5s linear;
+transition: opacity 0.2s linear;
 }
 
 .resources__link:hover {
