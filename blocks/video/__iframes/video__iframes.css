@@ -1,0 +1,7 @@
+.video__iframes {
+  overflow: visible;
+  margin: 50px auto -50px auto;
+  display: flex;
+  justify-content: center;
+  z-index: 3;
+}
